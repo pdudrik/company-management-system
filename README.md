@@ -1,1 +1,1 @@
-# company-management-system
+# Comapany Management System
